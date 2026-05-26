@@ -162,6 +162,7 @@ The dashboard visualizes employee attrition patterns across several key factors,
 ## Important Links
 - **Interactive Dashboard:** [Download Power BI File (.pbix)](./AtikaShafiyya_AttritionDashboard.pbix)
 - **Data Cleansing Documentation:** [Notion Log](https://www.notion.so/Employee-Attrition-Analysis-using-SQL-36c3ba008b1c803a8e6fefd6e9f28409?source=copy_link)
+- **Dataset:** [Dataset Overview File (.csv)](./Employee.csv)
 
 
 ## Tools & Technologies
