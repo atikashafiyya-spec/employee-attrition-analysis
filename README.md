@@ -182,8 +182,3 @@ The dashboard visualizes employee attrition patterns across several key factors,
   - Mentorship Program: To address the 35% attrition rate among employees aged 18–25, implement a mentoring program and provide clear career paths from day one to build a sense of belonging.
   - Implement one-on-one sessions: Provide training for supervisors to conduct regular one-on-one sessions with employees that show signs of declining Job Involvement or Job Satisfaction (scores 1–2).
   - Restructuring the Sales Role’s Workload: Consider that even Sales Representatives with high satisfaction (score 4) still have high attrition (30.43%), suggesting the issue is likely systemic. It is necessary to review whether the role has unrealistic sales targets, a commission system, or administrative tasks that consume too much of their time.
-
-
-
-
-### 2. SQL Exploratory Data Analysis (EDA)
