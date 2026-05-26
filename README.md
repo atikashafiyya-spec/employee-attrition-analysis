@@ -159,6 +159,11 @@ The dashboard visualizes employee attrition patterns across several key factors,
 ## Data Source
 [IBM HR Analytics Employee Attrition Dataset - Kaggle](https://www.kaggle.com/datasets/patelprashant/employee-attrition/data)
 
+## Important Links
+- **Interactive Dashboard:** [Download Power BI File (.pbix)](./AtikaShafiyya_AttritionDashboard.pbix)
+- **Data Cleansing Documentation:** [Notion Log](https://www.notion.so/Employee-Attrition-Analysis-using-SQL-36c3ba008b1c803a8e6fefd6e9f28409?source=copy_link)
+
+
 ## Tools & Technologies
   - SQL (SQLite)
   - Power BI
